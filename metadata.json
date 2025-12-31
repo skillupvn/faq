@@ -1,0 +1,8 @@
+{
+  "name": "SkillUp FAQ Master Pro",
+  "description": "A high-performance FAQ and customer support management system with AI-assisted data entry, Excel synchronization, and dynamic category management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
